@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/VtoCorleone/ashleyandshaneswedding/issues"
   },
-  "homepage": "https://github.com/VtoCorleone/ashleyandshaneswedding"
+  "homepage": "https://github.com/VtoCorleone/ashleyandshaneswedding",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
 }
