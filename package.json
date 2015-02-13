@@ -1,0 +1,24 @@
+{
+  "name": "ashleyandshaneswedding",
+  "version": "1.0.0",
+  "description": "Our wedding website",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VtoCorleone/ashleyandshaneswedding.git"
+  },
+  "author": "Shane Chapman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VtoCorleone/ashleyandshaneswedding/issues"
+  },
+  "homepage": "https://github.com/VtoCorleone/ashleyandshaneswedding"
+}
